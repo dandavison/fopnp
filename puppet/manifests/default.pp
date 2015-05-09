@@ -1,7 +1,7 @@
-package { "git":
-  ensure => "installed"
+package { 'git':
+  ensure => 'installed'
 }
 
-package { "docker.io":
-  ensure => "installed"
+package { 'docker.io':
+  ensure => 'installed'
 }
