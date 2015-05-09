@@ -1,0 +1,3 @@
+```sh
+vagrant init
+```
